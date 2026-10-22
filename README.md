@@ -16,6 +16,7 @@
 **Selected Track:** Quantum + AI and ML
 
 **Live Demo:** https://grid-weaver.vercel.app/  
+**Presentation PPT** https://docs.google.com/presentation/d/1lrDSHkP3apoWaGc4jsUAXl4WVxwBQIfp/edit?usp=sharing&ouid=104835767600303298047&rtpof=true&sd=true
 **Vedio Link** https://drive.google.com/file/d/1-FshpVLllzMD4DJVzDlvBDAjNZEP2oH8/view?usp=sharing
 
 
